@@ -8,7 +8,7 @@ Demos for training different CNNs on the Fashion-MNIST dataset.
 >
 > However I hope this can help you learn to use CNN with PyTorch :D
 >
-> For explaination please refer to [d2l.ai](https://d2l.ai/chapter_convolutional-modern/index.html) (pretty good book, lots of my code written around that) :happy:
+> For explaination please refer to [d2l.ai](https://d2l.ai/chapter_convolutional-modern/index.html) (pretty good book, lots of my code written around that) 😊
 
 ## Networks
 
